@@ -2,9 +2,10 @@
   "name": "car-washes-services",
   "version": "1.0.0",
   "description": "this is the backend for uber services",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/yitzhakmatias/car-wash-services/issues"
   },
-  "homepage": "https://github.com/yitzhakmatias/car-wash-services#readme"
+  "homepage": "https://github.com/yitzhakmatias/car-wash-services#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
 }
