@@ -1,0 +1,19 @@
+{
+  "name": "car-washes-services",
+  "version": "1.0.0",
+  "description": "this is the backend for uber services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yitzhakmatias/car-wash-services.git"
+  },
+  "author": "yitzhak matias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yitzhakmatias/car-wash-services/issues"
+  },
+  "homepage": "https://github.com/yitzhakmatias/car-wash-services#readme"
+}
