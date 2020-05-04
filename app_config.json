@@ -1,0 +1,5 @@
+{
+  "env": {
+    "CNN_STR": "mongodb+srv://admin:pa$$word@cluster0-bwhui.azure.mongodb.net/CarWashDb?retryWrites=true&w=majority"
+  }
+}
